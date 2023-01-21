@@ -1,6 +1,7 @@
 /Library/
 /obj
 /Temp/
+/Logs/
 
 /.vs/
 .vsconfig
