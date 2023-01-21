@@ -1,4 +1,5 @@
-/Library/
+/Library/*
+!/Library/LastSceneManagerSetup.txt
 /obj
 /Temp/
 /Logs/
