@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Grip
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: armature_fp_female_hand
+    m_Weight: 0
+  - m_Path: armature_fp_female_hand/shoulder
+    m_Weight: 0
+  - m_Path: armature_fp_female_hand/shoulder/arm_up_deform
+    m_Weight: 0
+  - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform
+    m_Weight: 0
+  - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform
+    m_Weight: 0
+  - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform/forearm_
+      down_deform
+    m_Weight: 0
+  - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform/forearm_
+      down_deform/hand_joint
+    m_Weight: 0
+  - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform/forearm_
+      down_deform/hand_joint/index_bone
+    m_Weight: 1
+  - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform/forearm_
+      down_deform/hand_joint/index_bone/index_prox
+    m_Weight: 1
+  - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform/forearm_
+      down_deform/hand_joint/index_bone/index_prox/index_inter
+    m_Weight: 1
+  - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform/forearm_
+      down_deform/hand_joint/index_bone/index_prox/index_inter/index_dist
+    m_Weight: 1
+  - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform/forearm_
+      down_deform/hand_joint/index_bone/index_prox/index_inter/index_dist/index_dist_end
+    m_Weight: 1
+  - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform/forearm_
+      down_deform/hand_joint/little_bone
+    m_Weight: 1
+  - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform/forearm_
+      down_deform/hand_joint/little_bone/little_prox
+    m_Weight: 1
+  - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform/forearm_
+      down_deform/hand_joint/little_bone/little_prox/little_inter
+    m_Weight: 1
+  - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform/forearm_
+      down_deform/hand_joint/little_bone/little_prox/little_inter/little_dist
+    m_Weight: 1
+  - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform/forearm_
+      down_deform/hand_joint/little_bone/little_prox/little_inter/little_dist/little_dist_end
+    m_Weight: 1
+  - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform/forearm_
+      down_deform/hand_joint/middle_bone
+    m_Weight: 1
+  - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform/forearm_
+      down_deform/hand_joint/middle_bone/middle_prox
+    m_Weight: 1
+  - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform/forearm_
+      down_deform/hand_joint/middle_bone/middle_prox/middle_inter
+    m_Weight: 1
+  - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform/forearm_
+      down_deform/hand_joint/middle_bone/middle_prox/middle_inter/middle_dist
+    m_Weight: 1
+  - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform/forearm_
+      down_deform/hand_joint/middle_bone/middle_prox/middle_inter/middle_dist/middle_dist_end
+    m_Weight: 1
+  - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform/forearm_
+      down_deform/hand_joint/ring_bone
+    m_Weight: 1
+  - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform/forearm_
+      down_deform/hand_joint/ring_bone/ring_prox
+    m_Weight: 1
+  - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform/forearm_
+      down_deform/hand_joint/ring_bone/ring_prox/ring_inter
+    m_Weight: 1
+  - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform/forearm_
+      down_deform/hand_joint/ring_bone/ring_prox/ring_inter/ring_dist
+    m_Weight: 1
+  - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform/forearm_
+      down_deform/hand_joint/ring_bone/ring_prox/ring_inter/ring_dist/ring_dist_end
+    m_Weight: 1
+  - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform/forearm_
+      down_deform/hand_joint/thumb_prox
+    m_Weight: 1
+  - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform/forearm_
+      down_deform/hand_joint/thumb_prox/thumb_inter
+    m_Weight: 1
+  - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform/forearm_
+      down_deform/hand_joint/thumb_prox/thumb_inter/thumb_dist
+    m_Weight: 1
+  - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform/forearm_
+      down_deform/hand_joint/thumb_prox/thumb_inter/thumb_dist/thumb_dist_end
+    m_Weight: 1
+  - m_Path: fp_female_hand
+    m_Weight: 0
