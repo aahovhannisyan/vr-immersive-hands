@@ -6,7 +6,7 @@ AvatarMask:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Trigger
+  m_Name: Grip
   m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
   m_Elements:
   - m_Path: 
@@ -29,19 +29,19 @@ AvatarMask:
     m_Weight: 0
   - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform/forearm_
       down_deform/hand_joint/index_bone
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform/forearm_
       down_deform/hand_joint/index_bone/index_prox
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform/forearm_
       down_deform/hand_joint/index_bone/index_prox/index_inter
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform/forearm_
       down_deform/hand_joint/index_bone/index_prox/index_inter/index_dist
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform/forearm_
       down_deform/hand_joint/index_bone/index_prox/index_inter/index_dist/index_dist_end
-    m_Weight: 0
+    m_Weight: 1
   - m_Path: armature_fp_female_hand/shoulder/arm_up_deform/arm_down_deform/forearm_up_deform/forearm_
       down_deform/hand_joint/little_bone
     m_Weight: 1
