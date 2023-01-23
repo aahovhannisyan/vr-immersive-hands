@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{13895069-5644-BA72-48BD-816C5C55FC7C}</ProjectGuid>
+    <ProjectGuid>{B9E98806-8B00-4D87-D3C5-E7F95FD3404A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -60,6 +60,7 @@
     <Compile Include="Assets\_Course Library\Scripts\Actions\SetLightColor.cs" />
     <Compile Include="Assets\_Course Library\Scripts\Controls\XRSlider.cs" />
     <Compile Include="Assets\_Course Library\Scripts\Testing\Notes.cs" />
+    <Compile Include="Assets\Scripts\HandController.cs" />
     <Compile Include="Assets\_Course Library\Scripts\Conditions\OnPull.cs" />
     <Compile Include="Assets\_Course Library\Scripts\Actions\SpawnFromList.cs" />
     <Compile Include="Assets\_Course Library\Scripts\Controls\XRJoystick.cs" />
@@ -89,14 +90,12 @@
     <Compile Include="Assets\_Course Library\Scripts\Conditions\OnTimedInterval.cs" />
     <Compile Include="Assets\_Course Library\Scripts\Actions\PlayAnimation.cs" />
     <Compile Include="Assets\_Course Library\Scripts\Testing\TeleportAnchorWithFade.cs" />
-    <Compile Include="Assets\NatureManufacture Assets\VR Hands FP Arms\Scripts\HandAnimatorManagerVR.cs" />
     <Compile Include="Assets\_Course Library\Scripts\Testing\TeleportAreaWithFade.cs" />
     <Compile Include="Assets\_Course Library\Scripts\Actions\ScaleObject.cs" />
     <Compile Include="Assets\_Course Library\Scripts\Actions\ApplyPhysics.cs" />
     <Compile Include="Assets\_Course Library\Scripts\Controls\XRButton.cs" />
     <Compile Include="Assets\_Course Library\Scripts\Actions\PlaySoundsFromList.cs" />
     <Compile Include="Assets\_Course Library\Scripts\Actions\SetVolume.cs" />
-    <Compile Include="Assets\NatureManufacture Assets\VR Hands FP Arms\Scripts\HandAnimatorManager.cs" />
     <Compile Include="Assets\_Course Library\Scripts\Actions\LoadScene.cs" />
     <Compile Include="Assets\_Course Library\Scripts\Conditions\OnButtonPress.cs" />
     <Compile Include="Assets\_Course Library\Scripts\Actions\ToggleLight.cs" />
@@ -105,6 +104,7 @@
     <Compile Include="Assets\_Course Library\Scripts\Actions\SetInteractionLayer.cs" />
     <Compile Include="Assets\_Course Library\Scripts\Actions\TranslateObject.cs" />
     <Compile Include="Assets\_Course Library\Scripts\Actions\ToggleRay.cs" />
+    <Compile Include="Assets\Scripts\Hand.cs" />
     <Compile Include="Assets\_Course Library\Scripts\Controls\XRKnob.cs" />
     <Compile Include="Assets\_Course Library\Scripts\Actions\PlayVideo.cs" />
     <Compile Include="Assets\_Course Library\Scripts\Actions\PlayQuickSound.cs" />
@@ -122,7 +122,6 @@
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
-     <None Include="Assets\NatureManufacture Assets\VR Hands FP Arms\Shaders\Skin Shader Dynamic.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
      <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
@@ -135,7 +134,6 @@
      <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
      <None Include="Assets\_Course Library\Licenses.txt" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
-     <None Include="Assets\NatureManufacture Assets\VR Hands FP Arms\Shaders\Skin Shader.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
      <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
